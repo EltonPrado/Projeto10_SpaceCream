@@ -6,12 +6,13 @@
 
 O projeto foi desenvolvido como desafio do curso Explorer da Rocketseat. 
 
-O desafio desse projeto consiste na criação de uma animação simples em uma landing page de sorvetes. 
+O desafio desse projeto consiste na criação de uma animação simples em uma landing page de sorvetes, trabalhando com animações em grid e mobile first. 
 
 <br>
 
-<p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
+<p>
+  <img alt="imagem do projeto spacecream" src=".github/desktop.jpg" width="83%">
+  <img alt="imagem do projeto spacecream" src=".github/mobile.jpg" width="8%">
 </p>
 
 <br>
