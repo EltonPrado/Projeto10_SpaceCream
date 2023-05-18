@@ -18,7 +18,7 @@ O desafio desse projeto consiste na criação de uma animação simples em uma l
 
 Quer conferir como ficou a landing page SpaceCream? 
 
-[Visite o projeto online]()
+[Visite o projeto online](https://eltonprado.github.io/Projeto10_SpaceCream/)
 
 <br>
 
